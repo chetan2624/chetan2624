@@ -1,5 +1,4 @@
-# Hello, I'm Chetan Vani 👋  
-### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast  
+# <marquee direction="left">👋 Hello, I'm Chetan Vani — Aspiring DevOps Engineer 🚀</marquee>  
 
 ---
 
@@ -15,7 +14,7 @@ I’m passionate about **automation, cloud-native technologies, and problem-solv
 
 ---
 
-## 🛠️ Tech Stack  
+## <marquee direction="right" scrollamount="6">🛠️ Tech Stack | Tools I Use Daily</marquee>  
 
 **Languages & Scripting:**  
 - Python, Bash  
@@ -36,7 +35,7 @@ I’m passionate about **automation, cloud-native technologies, and problem-solv
 
 ---
 
-## 💼 Professional Experience  
+## <marquee behavior="alternate" scrollamount="8">💼 Professional Experience</marquee>  
 
 ### 🚀 DevOps Intern — *Elevate Labs Pvt Ltd* (Aug 2025 – Sep 2025)  
 - Implemented CI/CD pipelines with **GitHub Actions** for Node.js apps.  
