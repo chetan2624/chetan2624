@@ -1,6 +1,9 @@
-# <marquee direction="left">👋 Hello, I'm Chetan Vani — Aspiring DevOps Engineer 🚀</marquee>  
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00C0FF&width=600&lines=Hi+👋,+I'm+Chetan+Vani;DevOps+Engineer+%7C+Cloud+%26+Automation;Passionate+about+CI%2FCD,+Docker,+Kubernetes;Always+Learning+%26+Sharing+Knowledge)](https://git.io/typing-svg)
 
 ---
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## 🧑‍💻 About Me  
 I’m a **DevOps Engineer** skilled in building CI/CD pipelines, cloud infrastructure, and automation workflows.  
@@ -14,28 +17,23 @@ I’m passionate about **automation, cloud-native technologies, and problem-solv
 
 ---
 
-## <marquee direction="right" scrollamount="6">🛠️ Tech Stack | Tools I Use Daily</marquee>  
+## 🛠️ Tech Stack  
 
-**Languages & Scripting:**  
-- Python, Bash  
-
-**DevOps & Cloud:**  
-- Docker, Kubernetes, Jenkins, GitHub Actions, Ansible  
-- Terraform, AWS (EC2, S3, VPC, IAM, EKS, Lambda, CloudWatch)  
-
-**Build & Code Quality Tools:**  
-- Maven, npm, SonarQube  
-
-**Monitoring & Observability:**  
-- CloudWatch, Datadog  
-
-**Other Skills:**  
-- Linux (Ubuntu, CentOS, RHEL)  
-- Git & GitHub  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
 
-## <marquee behavior="alternate" scrollamount="8">💼 Professional Experience</marquee>  
+## 💼 Professional Experience  
 
 ### 🚀 DevOps Intern — *Elevate Labs Pvt Ltd* (Aug 2025 – Sep 2025)  
 - Implemented CI/CD pipelines with **GitHub Actions** for Node.js apps.  
@@ -79,8 +77,9 @@ University Institute of Technology, RGPV — CGPA: 7.68 (2021–2025)
 
 ## 📊 GitHub Stats  
 
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan2624&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan2624&layout=compact&theme=tokyonight)  
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan2624&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=chetan2624&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan2624&layout=compact&theme=radical)  
 
 ---
 
