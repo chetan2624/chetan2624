@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00C0FF&width=600&lines=Hi+👋,+I'm+Chetan+Vani;DevOps+Engineer+%7C+Cloud+%26+Automation;Passionate+about+CI%2FCD,+Docker,+Kubernetes;Always+Learning+%26+Sharing+Knowledge)](https://git.io/typing-svg)
  
 ---
-
+ 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## 🧑‍💻 About Me  
