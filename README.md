@@ -78,15 +78,12 @@ University Institute of Technology, RGPV — CGPA: 7.68 (2021–2025)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetan2624&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan2624&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chetan2624&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chetan2624&theme=radical&hide_border=true">
-</p>  
-
----
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetan2624&theme=radical" />
+</p>
 
 ## 🌐 Connect with Me  
 
